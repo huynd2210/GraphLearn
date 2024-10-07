@@ -1,3 +1,4 @@
+*.json filter=lfs diff=lfs merge=lfs -text
 /concept_graph_cs_math_edge.json filter=lfs diff=lfs merge=lfs -text
 /concept_graph_cs_math_nodes.json filter=lfs diff=lfs merge=lfs -text
 /graph.db filter=lfs diff=lfs merge=lfs -text
